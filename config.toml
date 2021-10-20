@@ -1,8 +1,9 @@
-baseurl = "https://nyando.me/"
+baseurl = "/"
 languageCode = "en-us"
 theme = "paper"
 title = "nyando's dev blog"
 paginate = 5
+relativeURLs = true
 
 [params]
   github = "nyando"
