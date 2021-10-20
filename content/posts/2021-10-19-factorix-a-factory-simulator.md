@@ -1,7 +1,7 @@
 ---
 title: "Factorix - A Factory Simulator"
 date: 2021-10-19T09:22:28+02:00
-draft: true
+draft: false
 ---
 
 This series will chronicle my development process as I work on an academic project.
@@ -38,7 +38,7 @@ The application won't be that UI-intensive anyway, aside from some simple drag-a
 ### Web Services
 
 Design decisions regarding peripheral services like a REST API (and possibly OPC UA as an optional feature) are still pending.
-I've used a cute little "microframework" called [Java Spark](https://sparkjava.com/) for a small REST service in the past, so that seems like a good enough option for this project.
+I've used a cute little "microframework" called [Java Spark](https://sparkjava.com/) (not to be confused with [Apache Spark](https://spark.apache.org/)) for a small REST service in the past, so that seems like a good enough option for this project.
 [Eclipse Milo](https://github.com/eclipse/milo) is my go-to for implementing an OPC UA interface, but that feature is still up in the air.
 
 ![Spark Java Logo](/sparkjava.png "The Spark Framework. No, the other one.")
