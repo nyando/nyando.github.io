@@ -8,3 +8,4 @@ relativeURLs = true
 [params]
   github = "nyando"
   custom_css = ["css/custom.css"]
+  description = "a blog about my personal projects and other software dev topics ~ nyando"

@@ -11,3 +11,9 @@ figcaption {
     padding-top: 1em;
     font-size: small;
 }
+
+div.description {
+    color: #fff;
+    font-size: medium;
+    padding-bottom: 3em;
+}
