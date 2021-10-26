@@ -28,7 +28,7 @@ I decided to go with one I have a couple of years of experience with, which is J
 Now, domain modeling is obviously independent of the programming language.
 Still, I prefer coding and writing tests as I start working on the model, so the decision to go with Java was a pretty quick and easy one.
 
-![Coffee Beans](/coffeebeans.jpg "Powering this project in more ways than one.")
+![Coffee Beans](/imgs/coffeebeans.jpg "Powering this project in more ways than one.")
 
 ### UI
 
@@ -41,7 +41,7 @@ Design decisions regarding peripheral services like a REST API (and possibly OPC
 I've used a cute little "microframework" called [Java Spark](https://sparkjava.com/) (not to be confused with [Apache Spark](https://spark.apache.org/)) for a small REST service in the past, so that seems like a good enough option for this project.
 [Eclipse Milo](https://github.com/eclipse/milo) is my go-to for implementing an OPC UA interface, but that feature is still up in the air.
 
-![Spark Java Logo](/sparkjava.png "The Spark Framework. No, the other one.")
+![Spark Java Logo](/imgs/sparkjava.png "The Spark Framework. No, the other one.")
 
 ### Data Infrastructure
 
